@@ -28,6 +28,7 @@ html {
   width: 100%;
   /* border-bottom: 1px solid gold; */
   box-shadow: 0 0 15px gold;
+  z-index: 1;
 }
 .nav h1 {
   font-size: 40px;
